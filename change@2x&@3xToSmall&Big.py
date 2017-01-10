@@ -61,7 +61,7 @@ def move(file):
 
 
 def _main():
-    file = "/Users/ku6/Downloads/连上看看APP_切图_20170105/切图/更多"
+    file = "/Users/mogonow6/Downloads/APP_切图_20170105/切图/登录" #@2x@3x文件所在file
     move(file)
 
 if __name__ == "__main__":
